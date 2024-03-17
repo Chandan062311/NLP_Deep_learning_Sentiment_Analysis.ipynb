@@ -1,4 +1,5 @@
 # Sentiment Analysis with Machine Learning Techniques
+<img src="https://github.com/Chandan062311/NLP_Deep_learning_Sentiment_Analysis.ipynb/assets/161809100/fa4832a8-0d3a-4b05-93c3-0ba5b00295f4" height="300px" width="100%">
 
 This repository implements sentiment analysis models using various machine learning techniques to classify text data (e.g., tweets) as positive, negative, or neutral. Explore models like:
 
